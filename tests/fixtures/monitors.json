@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1, "name": "DP-1", "x": 0, "y": 0,
+    "width": 1920, "height": 1080, "scale": 1.0, "transform": 0,
+    "activeWorkspace": {"id": 1, "name": "1"},
+    "specialWorkspace": {"id": 0, "name": ""}, "focused": true,
+    "unrelatedFutureField": "ignored"
+  }
+]
