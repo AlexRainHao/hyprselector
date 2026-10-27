@@ -30,7 +30,7 @@ cargo run
 Or, you could install the compiled binary using:
 
 ```
-cargo run --path .
+cargo install --path .
 ```
 
 ## Usage
